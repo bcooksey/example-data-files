@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>My Example Feed</title>
+ <description>This is an example of an RSS feed</description>
+ <lastBuildDate>Mon, 17 Jun 2013 08:00:00 +0000 </lastBuildDate>
+ <pubDate>Mon, 17 Jun 2013 06:00:00 +0000 </pubDate>
+ <ttl>1800</ttl>
+ 
+ <item>
+  <title>LAI Engineering Presentation</title>
+  <description>booked by Lindsay Trinkle</description>
+  <guid>unique string per item</guid>
+  <pubDate>Mon, 17 Jun 2013 08:00:00 +0000 </pubDate>
+  <eventStartDate>20130617T230000-0700</eventStartDate>
+  <eventEndDate>20130617T233000-0700</eventEndDate>
+  <eventLocation>Atlanta Ventures Board Room-3rd Floor</eventLocation>
+ </item>
+
+ <item>
+  <title>Example entry 2</title>
+  <description>Here is some text containing an interesting description.</description>
+  <guid>unique string per item</guid>
+  <pubDate>Mon, 17 Jun 2013 08:00:00 +0000 </pubDate>
+  <eventStartDate>20130617T230000-0000</eventStartDate>
+  <eventEndDate>20130617T233000-0000</eventEndDate>
+  <eventLocation>Atlanta Ventures Board Room-3rd Floor</eventLocation>
+ </item>
+
+ <item>
+  <title>Example entry 3</title>
+  <description>Another description for an event</description>
+  <guid>unique string per item</guid>
+  <pubDate>Mon, 17 Jun 2013 08:00:00 +0000 </pubDate>
+  <eventStartDate>20130617T230000Z</eventStartDate>
+  <eventEndDate>20130617T233000Z</eventEndDate>
+  <eventLocation>Atlanta Ventures Board Room-3rd Floor</eventLocation>
+ </item>
+ 
+</channel>
+</rss>

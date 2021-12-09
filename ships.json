@@ -1,0 +1,23 @@
+[
+    {
+        "class": "D",
+        "id": 22135,
+        "max_warp": 10,
+        "name": "USS Enterprise",
+        "captain": 1
+    },
+    {
+        "class": "C",
+        "id": 5811,
+        "max_warp": 7,
+        "name": "USS Titan",
+        "captain": 2
+    },
+    {
+        "class": "B",
+        "id": 3468,
+        "max_warp": 8,
+        "name": "USS Bradbury",
+        "captain": 3
+    }
+]

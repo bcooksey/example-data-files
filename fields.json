@@ -1,0 +1,28 @@
+[
+    {
+        "default_value": "",
+        "help_text": "Custom field 1",
+        "key": "fav_drink",
+        "label": "Favorite Drink",
+        "list": true,
+        "required": false,
+        "type": "unicode",
+        "send_in_json": false
+    },
+    {
+        "default_value": "chicken",
+        "help_text": "Custom field 2",
+        "key": "fav_food",
+        "label": "Favorite Food",
+        "required": false,
+        "type": "unicode"
+    },
+    {
+        "default_value": "",
+        "help_text": "Custom field 3",
+        "key": "fav_time",
+        "label": "Favorite Date and Time",
+        "required": false,
+        "type": "datetime"
+    }
+]

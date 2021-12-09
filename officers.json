@@ -1,0 +1,38 @@
+[
+    {
+        "assignments": [
+            {
+                "position": "commanding officer",
+                "vessel": "USS Enterprise"
+            },
+            {
+                "position": "first officer",
+                "vessel": "USS Glory"
+            }
+        ],
+        "email": "picard@uss-enterprise.dev",
+        "enlisted_date": "1987-03-01 08:00:00+0000",
+        "first_name": "Jean-Luc",
+        "id": 1,
+        "last_name": "Picard",
+        "rank": "captain"
+    },
+    {
+        "assignments": [
+            {
+                "position": "first officer",
+                "vessel": "USS Enterprise"
+            },
+            {
+                "position": "commanding officer",
+                "vessel": "USS Titan"
+            }
+        ],
+        "email": "riker@uss-enterprise.dev",
+        "enlisted_date": "1988-02-27 15:30:00-5000",
+        "first_name": "Will",
+        "id": 2,
+        "last_name": "Riker",
+        "rank": "commander"
+    }
+]
